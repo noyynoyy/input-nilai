@@ -1,0 +1,65 @@
+System.out.println("---P R O G R A M  I N P U T  5  A N G K A---");
+    Scanner input = new Scanner (System.in);
+        
+        
+    System.out.print("Masukkan nilai 1 = ");
+    int n1 = input.nextInt();    
+    if (n1 < 60){
+            System.out.println("Kurang");
+    } else if (n1 <= 70){
+            System.out.println("Cukup");
+    } else if (n1 <= 80){
+            System.out.println("Baik");
+    } else if (n1 >= 80){
+            System.out.println("Luar biasa");
+    }
+    
+    System.out.print("Masukkan nilai 2 = ");
+    int n2 = input.nextInt();
+    if (n2 < 60){
+            System.out.println("Kurang");
+    } else if (n2 <= 70){
+            System.out.println("Cukup");
+    } else if (n2 <= 80){
+            System.out.println("Baik");
+    } else if (n2 >= 80){
+            System.out.println("Luar biasa");
+    }
+    
+    
+    
+    System.out.print("Masukkan nilai 3 = ");
+    int n3 = input.nextInt();
+    if (n3 < 60){
+            System.out.println("Kurang");
+    } else if (n3 <= 70){
+            System.out.println("Cukup");
+    } else if (n3 <= 80){
+            System.out.println("Baik");
+    } else if (n3 >= 80){
+            System.out.println("Luar biasa");
+    }
+    
+    System.out.print("Masukkan nilai 4 = ");
+        int n4 = input.nextInt();
+    if (n4 < 60){
+            System.out.println("Kurang");
+    } else if (n4 <= 70){
+            System.out.println("Cukup");
+    } else if (n4 <= 80){
+            System.out.println("Baik");
+    } else if (n4 >= 80){
+            System.out.println("Luar biasa");
+    }
+    
+    System.out.print("Masukkan nilai 5 = ");
+    int n5 = input.nextInt();
+    if (n5 < 60){
+            System.out.println("Kurang");
+    } else if (n5 <= 70){
+            System.out.println("Cukup");
+    } else if (n5 <= 80){
+            System.out.println("Baik");
+    } else if (n5 >= 80){
+            System.out.println("Luar biasa");
+    }
